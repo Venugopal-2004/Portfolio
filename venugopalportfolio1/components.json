@@ -1,0 +1,88 @@
+{
+    "profile": {
+        "name": "Guttula Venugopal Swaroop",
+        "email": "venugopalgopal2004@gmail.com",
+        "phone": "+91-6371240935",
+        "linkedin": "https://linkedin.com/in/venugopalSwaroopGuttula",
+        "github": "https://github.com/Venugopal-2004",
+        "description": "Motivated Computer Science student with strong foundation in DSA and DBMS. Skilled in Python, Java, and web development. Passionate about AI, problem-solving, and team collaboration. Awarded 'Best Volunteer' in NSS."
+    },
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "institution": "GMR Institute of Technology, Rajam",
+            "duration": "2022 \u2013 2026",
+            "score": "CGPA: 7.40"
+        },
+        {
+            "degree": "Intermediate",
+            "institution": "Tirumala Junior College, Rajahmundry",
+            "duration": "2020 \u2013 2022",
+            "score": "Percentage: 64.1"
+        },
+        {
+            "degree": "Secondary Education",
+            "institution": "Tirumala English Medium School, Rajahmundry",
+            "duration": "2019 \u2013 2020",
+            "score": "Percentage: 99.83"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Java",
+        "C",
+        "Data Structures and Algorithms",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis",
+        "Flask",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "DBMS",
+        "Operating Systems"
+    ],
+    "experience": [
+        {
+            "role": "Teacher Assistant - Community Project",
+            "organization": "Z.P High School, Dolapeta",
+            "location": "Rajam, India",
+            "duration": "Jul 2024 \u2013 Aug 2024",
+            "responsibilities": [
+                "Educated school students about MS Office applications.",
+                "Taught about effective usage and benefits of AI chatbots.",
+                "Explained computer organization and architecture concepts."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Self-Driving Car Using IoT, Computer Vision and Deep Learning",
+            "url": "https://github.com/Venugopal-2004/self_driving_car",
+            "description": [
+                "Built a low-cost self-driving car prototype using Raspberry Pi 4 and Python.",
+                "Implemented real-time lane detection and obstacle avoidance with OpenCV and sensors.",
+                "Used TensorFlow Lite and Hough Transform for image processing and lane tracking.",
+                "Integrated IoT with RPi.GPIO, cameras, and DC motors for navigation."
+            ]
+        },
+        {
+            "name": "YouTube Ad-View Prediction Using Machine Learning",
+            "url": "https://github.com/Venugopal-2004/youtube_adview_predection",
+            "description": [
+                "Built a regression model to predict YouTube ad views using engagement metrics and metadata.",
+                "Trained Linear Regression and Random Forest models; optimized using MSE and R\u00b2.",
+                "Documented with EDA, training, evaluation, and predictions using Python and scikit-learn."
+            ]
+        }
+    ],
+    "certificates": [
+        "JavaScript (Intermediate) - HackerRank",
+        "JavaScript (Basic) - HackerRank",
+        "CSS (Basic) - HackerRank",
+        "SQL (Basic) - HackerRank",
+        "SQL (Intermediate) - HackerRank",
+        "SQL (Advanced) - HackerRank"
+    ]
+}
